@@ -1,1 +1,6 @@
 # resumen
+
+
+
+
+GROQ_API_KEY=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
